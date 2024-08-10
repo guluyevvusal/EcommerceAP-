@@ -1,4 +1,4 @@
-﻿using EcommerceApi.Domen;
+﻿using EcommerceApi.Domen.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
